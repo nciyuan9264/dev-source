@@ -7,7 +7,7 @@
     {
       "name": "Launch Chrome",
       "request": "launch",
-      "type": "chrome",
+      "type": "legacy-chrome",
       "url": "http://localhost:3000",
       "webRoot": "${workspaceFolder}",
       "sourceMaps": true,
